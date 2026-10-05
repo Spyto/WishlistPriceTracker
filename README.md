@@ -1,40 +1,40 @@
-# Wishlist Price Tracker — Sito ufficiale
+# Wishlist Price Tracker — Official website
 
-Sito web ufficiale dell’app iOS **Wishlist Price Tracker**.
+Official website for the **Wishlist Price Tracker** iOS app.
 
-Il sito è realizzato in HTML5 e CSS3, senza framework esterni, ed è progettato per essere pubblicato gratuitamente tramite GitHub Pages.
+The website is built with HTML5 and CSS3, without external frameworks, and is designed to be hosted for free through GitHub Pages.
 
-## Funzioni del sito
+## Website features
 
-Il sito contiene:
+The website includes:
 
-- Home page dell’app
-- Presentazione delle funzionalità principali
-- Screenshot reali dell’app
+- App home page
+- Overview of the main features
+- Real app screenshots
 - Privacy Policy
-- Pagina di supporto
+- Support page
 - FAQ
-- Istruzioni per l’utilizzo
-- Contatti di assistenza
-- Dark Mode automatica
-- Layout responsive per desktop, tablet e smartphone
+- Usage instructions
+- Support contact information
+- Automatic dark mode
+- Responsive layout for desktop, tablet, and smartphone
 
-## Tecnologie utilizzate
+## Technologies used
 
 - HTML5
 - CSS3
-- JavaScript nativo minimo
+- Minimal vanilla JavaScript
 - GitHub Pages
 
-Non sono utilizzati:
+The website does not use:
 
-- framework CSS
-- librerie JavaScript
-- sistemi di analytics
-- cookie pubblicitari
-- strumenti di profilazione
+- CSS frameworks
+- JavaScript libraries
+- Analytics systems
+- Advertising cookies
+- Profiling tools
 
-## Struttura del repository
+## Repository structure
 
 ```text
 WishlistPriceTracker/
@@ -50,3 +50,4 @@ WishlistPriceTracker/
     ├── screenshot-detailmore.jpeg
     ├── screenshot-target.jpeg
     └── screenshot-archive.jpeg
+```
